@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi, I'm Yaryna Hapanovych
+Full-Stack Developer | React, TypeScript, Node.js | Learning Rust 
+How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 <!--
 **YarynaGapanovych/YarynaGapanovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
