@@ -43,12 +43,8 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YarynaGapanovych&show_icons=true&theme=dark)  
-
----
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YarynaHapanovych/)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/YarynaHapanovych)
