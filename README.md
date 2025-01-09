@@ -1,6 +1,6 @@
 # Yaryna Hapanovych
 
-#Full-Stack Developer | React, TypeScript, Node.js**  
+#Full-Stack Developer | React, TypeScript, Node.js
 
 
 ---
@@ -44,8 +44,8 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 
 
 ## 📫 Connect with Me
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~01736e3d0646a011a7)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yaryna-hapanovych-84a943152)  
-[![GitHub](https://img.shields.io/badge/GitHub-YarynaGapanovych-000000?logo=GitHub)](https://github.com/YarynaGapanovych)  
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~01736e3d0646a011a7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yaryna-hapanovych-84a943152) 
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/Yaryna_Hapanovych)  
+
 📧 **Email:** [y.gapanovych@gmail.com](mailto:y.gapanovych@gmail.com) 
