@@ -1,8 +1,7 @@
 # Yaryna Hapanovych
 
 🚀 **Full-Stack Developer | React, TypeScript, Node.js**  
-📍 Cracow, Poland  
-📧 y.gapanovych@gmail.com  
+📍 Cracow, Poland   
 
 ---
 
@@ -45,6 +44,8 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 
 
 ## 📫 Connect with Me
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/YarynaHapanovych)  
 
+📧 **Email:** [y.gapanovych@gmail.com](mailto:y.gapanovych@gmail.com)  
+💬 **Telegram:** [@YourTelegramUsername](https://t.me/YourTelegramUsername)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YarynaHapanovych/)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/YarynaHapanovych)
