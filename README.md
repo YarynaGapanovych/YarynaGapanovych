@@ -3,7 +3,6 @@
 ## Full-Stack Developer | React, TypeScript, Node.js
 
 
----
 
 ## About Me
 
@@ -13,7 +12,7 @@ I have worked on **HR platforms, ERP systems, SaaS applications, and ESG analyti
 
 Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Learning**.
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -22,7 +21,7 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 - **Databases:** MongoDB, MySQL  
  
 
----
+
 
 ## 💼 Experience
 
@@ -40,7 +39,7 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 - Worked on **Fest.dev**, implementing UI fixes and improvements.
 - Contributed to ERP system frontend development.
 
----
+
 
 
 ## 📫 Connect with Me
