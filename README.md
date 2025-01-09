@@ -1,7 +1,7 @@
 # Yaryna Hapanovych
 
-**Full-Stack Developer | React, TypeScript, Node.js**  
-Cracow, Poland   
+#Full-Stack Developer | React, TypeScript, Node.js**  
+
 
 ---
 
@@ -18,7 +18,7 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 ## 🔧 Tech Stack
 
 - **Frontend:** React, Next.js, Astro, MobX, Redux, SCSS  
-- **Backend:** Node.js, GraphQL, REST APIs, Python, PHP  
+- **Backend:** Node.js, GraphQL, REST APIs, <sub>Python</sub>, <sub>PHP</sub>  
 - **Databases:** MongoDB, MySQL  
  
 
@@ -44,8 +44,8 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 
 
 ## 📫 Connect with Me
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/YarynaHapanovych)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YarynaHapanovych/)
-
-📧 **Email:** [y.gapanovych@gmail.com](mailto:y.gapanovych@gmail.com)  
-💬 **Telegram:** [@YourTelegramUsername](https://t.me/YourTelegramUsername)  
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~01736e3d0646a011a7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yaryna-hapanovych-84a943152)  
+[![GitHub](https://img.shields.io/badge/GitHub-YarynaGapanovych-000000?logo=GitHub)](https://github.com/YarynaGapanovych)  
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/Yaryna_Hapanovych)  
+📧 **Email:** [y.gapanovych@gmail.com](mailto:y.gapanovych@gmail.com) 
