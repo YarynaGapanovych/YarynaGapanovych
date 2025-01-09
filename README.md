@@ -1,10 +1,10 @@
 # Yaryna Hapanovych
 
-## Full-Stack Developer | React, TypeScript, Node.js
+### Full-Stack Developer | React, TypeScript, Node.js
 
 
 
-## About Me
+## 📌 About Me
 
 I have **3+ years of experience** in frontend development and a solid understanding of backend technologies, primarily working with TypeScript and React. 
 
