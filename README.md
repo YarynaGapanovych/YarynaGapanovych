@@ -1,6 +1,6 @@
 # Yaryna Hapanovych
 
-#Full-Stack Developer | React, TypeScript, Node.js
+## Full-Stack Developer | React, TypeScript, Node.js
 
 
 ---
