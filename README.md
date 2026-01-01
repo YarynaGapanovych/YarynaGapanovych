@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-I have **3+ years of experience** in frontend development and a solid understanding of backend technologies, primarily working with TypeScript and React. 
+I have **4+ years of experience** in fullstack development primarily working with TypeScript, React and Node.js. 
 
 I have worked on **HR platforms, ERP systems, SaaS applications, and ESG analytics tools**, contributing to both **frontend architecture and backend development**. My focus is on **performance optimization, clean code, and user-friendly interfaces**.  
 
