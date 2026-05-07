@@ -17,8 +17,8 @@ Currently, I am expanding my skills in **Rust** and exploring **AI & Machine Lea
 ## 🔧 Tech Stack
 
 - **Frontend:** React, Next.js, Astro, MobX, Redux, SCSS  
-- **Backend:** Node.js, GraphQL, REST APIs, <sub>Python</sub>, <sub>PHP</sub>  
-- **Databases:** MongoDB, MySQL  
+- **Backend:** Node.js, Nest.js, GraphQL, REST APIs, <sub>Python</sub>, <sub>PHP</sub>  
+- **Databases:** MongoDB, MySQL, PostgreSQL 
  
 
 
